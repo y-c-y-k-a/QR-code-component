@@ -37,7 +37,7 @@ body {
   border-radius: 10px;
 }
 
-.qr-container .text-container {
+.qr-container .text-container p {
   padding: 0 16px;
 }
 
